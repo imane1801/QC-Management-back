@@ -1,0 +1,45 @@
+GET http://localhost:8099/api/basckets/allBaskets
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-27T194934.200.json
+
+###
+
+GET http://localhost:8099/api/basckets/allBaskets
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-27T194524.200.json
+
+###
+
+GET http://localhost:8099/api/basckets/allBaskets
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-27T183622.200.json
+
+###
+
+GET http://localhost:8099/api/basckets/allBaskets
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-27T182022.200.json
+
+###
+
+GET http://localhost:8099/api/basckets/allBaskets
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-27T180838.200.json
+
+###
+
